@@ -2,14 +2,14 @@
 <h3 align="center">I'm Mobile Developer</h3></p></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-jebriel&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-jebriel" /> 
 </p> </p> </p>
-- 💬 About Me  </p>**Professional mobile developer
+- 💬 About Me  </p>Professional mobile developer
 (Android & Flutter) with 3 years of
 experience in mobile app development
 and mobile app design. Highly skilled at
 creating applications with java and dart.
 Expertise in UI&UX design with adobe
 xd. And solid understanding of business
-requires learning new technologies.**
+requires learning new technologies.
 <img align="right" alt="Coding" width="300" src="https://github.com/Mostafa-jebriel/Mostafa-jebriel/blob/main/profile-img.png"> </p> </p>
 </p> </p> </p>
 
