@@ -1,12 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mostafa Jebriel</h1>
-<h3 align="center">A Mobile Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1paiJEgbfv9FkSucWRa9WqM-C5-ccaijE/view?usp=sharing">
+<h1 align="center">Hi there 👋, I'm Mostafa Jebriel</h1>
+<h3 align="center">I'm Mobile Developer</h3>
+<img align="right" alt="Coding" width="400" src="[https://drive.google.com/file/d/1paiJEgbfv9FkSucWRa9WqM-C5-ccaijE/view?usp=sharing](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-jebriel&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-jebriel" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-jebriel&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-jebriel" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa-jebriel" alt="mostafa-jebriel" /></a> </p>
 
-- 💬 About Me **Android & Flutter**
+- 💬 About Me **Professional mobile developer
+(Android & Flutter) with 3 years of
+experience in mobile app development
+and mobile app design. Highly skilled at
+creating applications with java and dart.
+Expertise in UI&UX design with adobe
+xd. And solid understanding of business
+requires learning new technologies.**
 
 - 📫 How to reach me **mostafajebriel@gmail.com**
 
