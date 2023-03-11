@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mostafa-jebriel&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-jebriel" /> 
 </p> </p> </p>
 - 💬 About Me  </p>Professional mobile developer
-(Android & Flutter) with 5 years of
+(Android & Flutter) with 3 years of
 experience in mobile app development
 and mobile app design. Highly skilled at
 creating applications with java and dart.
