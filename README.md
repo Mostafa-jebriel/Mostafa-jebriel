@@ -1,20 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Mostafa Jebriel</h1>
 <h3 align="center">I'm Mobile Developer</h3></p></p>
+</p> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mostafa-jebriel&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-jebriel" /> 
 </p> </p> </p>
-- 💬 About Me  </p>Professional mobile developer
-(Android & Flutter) with 3 years of
-experience in mobile app development
-and mobile app design. Highly skilled at
-creating applications with java and dart.
-Expertise in UI&UX design with adobe
-xd. And solid understanding of business
-requires learning new technologies.
+- 💬 About Me  </p>Full Stack Mobile Developer with 3 years of experience in developing high-quality mobile applications using Flutter and Laravel. Proficient in designing and implementing scalable architectures, creating intuitive user interfaces, and integrating complex backend systems. Demonstrated ability to work effectively in fast-paced environments and deliver robust solutions within tight deadlines. Extensive experience collaborating with cross-functional teams to ensure seamless project delivery. Passionate about staying up-to-date with the latest technologies and utilizing them to create innovative mobile solutions. With a track record of successful projects and a commitment to excellence, I am confident in my ability to provide top-notch development services to any project
 </p></p> </p>
 <img align="center" alt="Coding" src="https://github.com/Mostafa-jebriel/Mostafa-jebriel/blob/main/poster.jpg"> </p> </p>
 </p> </p> </p>
-<img align="right" alt="Coding" width="300" src="https://github.com/Mostafa-jebriel/Mostafa-jebriel/blob/main/profile-img.png"> </p> </p>
-</p> </p> </p>
+<!-- <img align="right" alt="Coding" width="300" src="https://github.com/Mostafa-jebriel/Mostafa-jebriel/blob/main/profile-img.png"> </p> </p>
+</p> </p> </p> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa-jebriel" alt="mostafa-jebriel" /></a> </p>
 
